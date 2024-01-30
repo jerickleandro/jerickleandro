@@ -26,5 +26,5 @@ I am currently a web programmer, working with JavaScript, TypeScript, HTML, CSS,
 ## 🚀 Frameworks:
 
 <a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"></a>
-<a><<img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React"></a>
 <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
