@@ -15,7 +15,6 @@ I am currently a web programmer, working with JavaScript, TypeScript, HTML, CSS,
 
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=TypeScript"></a>
-<a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
@@ -27,5 +26,5 @@ I am currently a web programmer, working with JavaScript, TypeScript, HTML, CSS,
 ## 🚀 Frameworks:
 
 <a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"></a>
+<a><<img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React"></a>
 <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"></a>
